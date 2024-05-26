@@ -30,7 +30,7 @@ A simple Java application to store and manage contact information. This program 
    git clone https://github.com/MASRITA19/PRODIGY_SD_03.git
 
 
-   ![image](https://github.com/MASRITA19/PRODIGY_SD_03/assets/90557850/41339485-78f6-4c00-93c0-364d0b958053)
+![image](https://github.com/MASRITA19/PRODIGY_SD_03/assets/90557850/41339485-78f6-4c00-93c0-364d0b958053)
 ![image](https://github.com/MASRITA19/PRODIGY_SD_03/assets/90557850/10231904-232d-4f97-943a-a334f5db2441)
 ![image](https://github.com/MASRITA19/PRODIGY_SD_03/assets/90557850/e674907f-c97e-432e-9340-870ce600db06)
 ![image](https://github.com/MASRITA19/PRODIGY_SD_03/assets/90557850/df914d8c-e260-4277-a699-7732494e9d98)
