@@ -27,5 +27,5 @@ A simple Java application to store and manage contact information. This program 
 2. Clone the repository using the following command:
 
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone 
 
